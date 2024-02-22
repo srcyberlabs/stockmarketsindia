@@ -1,8 +1,7 @@
-> # STOCK MARKETS 101 - Trade Smarter and Trade Brighter!
-
-
 ![sm](https://github.com/srcyberlabs/stockmarketsindia/assets/156154357/d72077f6-5f4a-4dce-a9d3-2e5fe85d9dfa)
 
+
+> # STOCK MARKETS 101 - Trade Smarter and Trade Brighter!
 
 
 * Welcome aboard the journey to financial mastery! We're delighted to have you join our Stock Markets and Intraday Trading Research and Development Program – your gateway to a world of opportunities and success in the dynamic realm of stock markets.
